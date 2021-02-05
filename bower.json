@@ -1,0 +1,24 @@
+{
+  "name": "Salesforce as Identity Provider - Service Provider Test App",
+  "version": "0.0.1",
+  "homepage": "https://github.com/CongruentGlobal/Saleforce-Idp-SSO-Demo-App.git",
+  "authors": [
+    "Rohith Sane"
+  ],
+  "description": "Test app to simulate SSO with SAML with Salesforce as Identity Provider",
+  "main": "app.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3"
+  }
+}
